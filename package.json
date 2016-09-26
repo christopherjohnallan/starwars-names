@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get random Star Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopherjohnallan/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Chris Allan <christopher.john.allan@gmail.com> (http://github.com/christopherjohnallan)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christopherjohnallan/starwars-names/issues"
+  },
+  "homepage": "https://github.com/christopherjohnallan/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
